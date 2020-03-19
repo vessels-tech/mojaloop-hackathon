@@ -2,11 +2,9 @@
 ## Getting started with the Lab
 
 
-[todo: TOC]
-
 ## 1.0 Obtaining an Access Token
 
-- 1.1 Go to [REDACTED](REDACTED)
+- 1.1 Go to the public gateway (the link has been removed as this environment is not public).
 
 ![lab_onboarding_01](./images/lab_onboarding_01.png)
 
@@ -92,17 +90,3 @@
   ]
 }
 ```
-
-
-### 2.0 Sending an End-to-end Transfer
-
-_[Note: this is still pending]_
-
-- 2.1 Prerequisites:
-
->Before continuing, ensure you have installed Postman and have the Mojaloop Postman collection installed.
->
->Refer to the preread checklist [todo: link] for more information.
-
-- 2.2 
-[todo: complete this when the hackathon postman is working]
